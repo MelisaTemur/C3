@@ -1,5 +1,5 @@
 # C3
-Exact same words count
+Exact same words count with FILES
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
